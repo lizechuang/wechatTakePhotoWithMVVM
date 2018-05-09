@@ -1,0 +1,2 @@
+# wechatTakePhotoWithMVVM
+仿照微信拍照界面使用MVVM设计模式
